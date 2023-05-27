@@ -1,24 +1,7 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
 
-/**
- * copyright 2022 codewithsadee
- */
-
-
-
-
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
 
 :root {
 
-  /**
-   * colors
-   */
 
   --gold-web-golden: hsl(50, 95%, 56%);
   --spanish-orange: hsl(24, 100%, 45%);
@@ -254,7 +237,7 @@ body {
 }
 
 .logo {
-  color: var(--smoky-black);
+  color: hsl(225deg 38% 54%);
   font-size: 3.5rem;
   font-weight: var(--fw-700);
   line-height: 1;
