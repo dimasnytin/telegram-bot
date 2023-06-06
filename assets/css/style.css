@@ -184,7 +184,7 @@ body {
   border-radius: var(--radius-6);
 }
 
-.btn-primary { background-image: var(--gradient-1); }
+.btn-primary { background-image: linear-gradient(to right, #3880ff, #3880ff); }
 
 .btn-secondary { background-image: var(--gradient-2); }
 
