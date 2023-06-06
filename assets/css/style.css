@@ -306,7 +306,7 @@ body {
 .hero-form { margin-block: 20px 30px; }
 
 .input-field {
-  background-color: var(--cultured-3);
+  /* background-color: var(--cultured-3); */
   padding: 20px 15px;
   border-radius: var(--radius-6);
   margin-block-end: 15px;
