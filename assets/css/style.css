@@ -432,6 +432,9 @@ body {
   #ABOUT
 \*-----------------------------------*/
 
+.bg-about{
+  background: var(--white-2);
+}
 .about { text-align: center; }
 
 .about .section-text:first-of-type { margin-block: 5px 30px; }
