@@ -7,3 +7,6 @@
 
 #КОНТЕНТ ДЛЯ САЙТА ЗДЕСЬ https://bottec.ru/
 #https://molinos.ru/studio/razrabotka-chat-botov
+
+
+#хороший сайт по ботам скачать его https://botcreators.ru/
