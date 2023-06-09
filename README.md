@@ -4,3 +4,6 @@
 #https://startup.nextjstemplates.com/
 #https://appline-tailwind.preview.uideck.com/
 #https://uideck.com/templates/tag/tailwind/
+
+#КОНТЕНТ ДЛЯ САЙТА ЗДЕСЬ https://bottec.ru/
+#https://molinos.ru/studio/razrabotka-chat-botov
