@@ -14,3 +14,5 @@ https://botsailor.com/
 https://for24.ru/bot/telegram/
 
 #https://academy.mediasoft.team/  - скопировать сайт курсы
+
+#https://aimchess.site/ 
