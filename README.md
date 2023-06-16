@@ -12,3 +12,5 @@
 #хороший сайт по ботам скачать его https://botcreators.ru/
 https://botsailor.com/
 https://for24.ru/bot/telegram/
+
+#https://academy.mediasoft.team/  - скопировать сайт курсы
