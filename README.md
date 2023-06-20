@@ -16,3 +16,5 @@ https://for24.ru/bot/telegram/
 #https://academy.mediasoft.team/  - скопировать сайт курсы
 
 #https://aimchess.site/ 
+
+#https://github.com/codewithsadee/cryptoza
