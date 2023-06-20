@@ -18,3 +18,5 @@ https://for24.ru/bot/telegram/
 #https://aimchess.site/ 
 
 #https://github.com/codewithsadee/cryptoza
+
+#https://halva.by/news_and_actions/action/testovaya-stranitsa-aktsiy
